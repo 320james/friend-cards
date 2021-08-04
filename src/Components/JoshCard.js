@@ -26,7 +26,7 @@ const JoshCard = () => {
                 <h3>Contractor @ Hoppy Design & Build</h3>
                 <p><strong>Description:</strong> Country boy who likes big trucks, building things, and weekends.</p>
                 <p><strong>Special Ability:</strong> Can drive a boat.</p>
-                <p><strong>Weakeness:</strong> Poker.</p>
+                <p><strong>Weakness:</strong> Poker.</p>
             </div>
 
         </CardStyled>

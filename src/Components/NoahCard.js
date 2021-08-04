@@ -26,7 +26,7 @@ const NoahCard = () => {
                 <h3>Psychology @ JMU | Class of 2023</h3>
                 <p><strong>Description:</strong> Has ultimate compassion for all animals and living things.</p>
                 <p><strong>Special Ability:</strong> Knows all the recent hit songs and can talk to dogs.</p>
-                <p><strong>Weakeness:</strong> Poor recovery in awkward situations.</p>
+                <p><strong>Weakness:</strong> Poor recovery in awkward situations.</p>
             </div>
 
         </CardStyled>

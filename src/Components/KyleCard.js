@@ -26,7 +26,7 @@ const KyleCard = () => {
                 <h3>Sound Engineering @ Full Sail Univ. | Class of 2022</h3>
                 <p><strong>Description:</strong> Lanky and silly guy who is immersed in music.</p>
                 <p><strong>Special Ability:</strong> Can create bouncy beats.</p>
-                <p><strong>Weakeness:</strong> Unreliable.</p>
+                <p><strong>Weakness:</strong> Unreliable.</p>
             </div>
 
         </CardStyled>

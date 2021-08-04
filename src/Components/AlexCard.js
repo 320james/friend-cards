@@ -26,7 +26,7 @@ const AlexCard = () => {
                 <h3>Chemcial Engineering @ UVA | Class of 2022</h3>
                 <p><strong>Description:</strong> Exceptionally energetic guy with a perceptible personality.</p>
                 <p><strong>Special Ability:</strong> Can easily crush 7-9 sodas in one sitting.</p>
-                <p><strong>Weakeness:</strong> Highly intelligent, but lacks common sense.</p>
+                <p><strong>Weakness:</strong> Highly intelligent, but lacks common sense.</p>
             </div>
 
         </CardStyled>

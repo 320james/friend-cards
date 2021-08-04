@@ -26,7 +26,7 @@ const JoeCard = () => {
                 <h3>Finance @ LSU | Class of 2021</h3>
                 <p><strong>Description: </strong> Likes old fashioned things and simply - country.</p>
                 <p><strong>Special Ability:</strong> Can fix small motors and play a couple chords on the guitar.</p>
-                <p><strong>Weakeness:</strong> Extremely poor diet.</p>
+                <p><strong>Weakness:</strong> Extremely poor diet.</p>
             </div>
 
         </CardStyled>

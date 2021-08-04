@@ -26,7 +26,7 @@ const ThomasCard = () => {
                 <h3>Cybersecurity @ VT | Class of 2022</h3>
                 <p><strong>Description:</strong> His world revolves around lifting and increasing his testosterone naturally.</p>
                 <p><strong>Special Ability:</strong> Can pick up 500lbs+ off the ground.</p>
-                <p><strong>Weakeness:</strong> Extreme pettiness and is late to everything.</p>
+                <p><strong>Weakness:</strong> Extreme pettiness and is late to everything.</p>
             </div>
 
         </CardStyled>
@@ -91,6 +91,7 @@ const CardStyled = styled(animated.div)`
     }
     
     p {
+        letter-spacing: 1;
         padding-top: 5px;
     }
     

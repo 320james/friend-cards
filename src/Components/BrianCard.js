@@ -26,7 +26,7 @@ const BrianCard = () => {
                 <h3>Computer Science @ VT | Class of 2023</h3>
                 <p><strong>Description:</strong> Extremely silly and sometimes, out of control.</p>
                 <p><strong>Special Ability:</strong> Incredible endurance.</p>
-                <p><strong>Weakeness:</strong> Prone to getting triggered easily from miscellaneous comments.</p>
+                <p><strong>Weakness:</strong> Prone to getting triggered easily from miscellaneous comments.</p>
             </div>
 
         </CardStyled>
